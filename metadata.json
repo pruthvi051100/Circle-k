@@ -1,0 +1,8 @@
+{
+  "name": "Circle K Official",
+  "description": "A high-converting, mobile-optimized website for Circle K featuring store locations, current promotions, food & beverage highlights, and loyalty programs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
